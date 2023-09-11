@@ -1,4 +1,5 @@
-#www.netgear.com
+www.netgear.com
+netgear.com
 adtago.s3.amazonaws.com
 analyticsengine.s3.amazonaws.com
 analytics.s3.amazonaws.com
