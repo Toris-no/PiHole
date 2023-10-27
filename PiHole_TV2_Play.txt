@@ -1,0 +1,14 @@
+securepubads.g.doubleclick.net
+ssl.google-analytics.com
+firebaselogging-pa.googleapis.com
+crashlyticsreports-pa.googleapis.com
+www.google-analytics.com
+app-measurement.com
+tpc.googlesyndication.com
+region1.app-measurement.com
+auditrecording-pa.googleapis.com
+pubads.g.doubleclick.net
+beacons.gvt2.com
+beacons.gcp.gvt2.com
+sessions.bugsnag.com
+beacons2.gvt2.com
