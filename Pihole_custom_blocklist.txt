@@ -24,3 +24,4 @@ data.mistat.india.xiaomi.com
 data.mistat.rus.xiaomi.com
 grs.hicloud.com
 api-adservices.apple.com
+telemetry-console.api.playstation.com
