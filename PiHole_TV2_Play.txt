@@ -12,3 +12,6 @@ beacons.gvt2.com
 beacons.gcp.gvt2.com
 sessions.bugsnag.com
 beacons2.gvt2.com
+pagead2.googlesyndication.com
+playerevents.play.tv2.no
+d2hg3vmp46nngc.cloudfront.net
