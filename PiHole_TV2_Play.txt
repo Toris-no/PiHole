@@ -15,3 +15,5 @@ beacons2.gvt2.com
 pagead2.googlesyndication.com
 playerevents.play.tv2.no
 d2hg3vmp46nngc.cloudfront.net
+tv2stream.tns-cs.net
+keen-tv2stream-dcv2.tns-cs.net
