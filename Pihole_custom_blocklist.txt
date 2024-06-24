@@ -31,4 +31,3 @@ snapchat-proxy.appspot.com
 gtq6.sct.sc-prod.net
 us-east1-aws.api.snapchat.com
 usc.adserver.snapads.com
-temu.com
