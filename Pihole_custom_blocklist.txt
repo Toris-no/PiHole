@@ -36,3 +36,4 @@ widgets.pinterest.com
 netgear.com
 www.netgear.com
 www.vg3.no
+www.vg4.no
