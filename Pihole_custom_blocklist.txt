@@ -35,3 +35,4 @@ us-east1-aws.api.snapchat.com
 widgets.pinterest.com
 netgear.com
 www.netgear.com
+www.vg3.no
